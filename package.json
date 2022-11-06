@@ -1,0 +1,19 @@
+{
+  "name": "k6-demo",
+  "version": "1.0.0",
+  "description": "Project to demo K6 tool features",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mchiruvella/k6-demo.git"
+  },
+  "author": "Manoj Chiruvella",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mchiruvella/k6-demo/issues"
+  },
+  "homepage": "https://github.com/mchiruvella/k6-demo#readme"
+}
